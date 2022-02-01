@@ -2,6 +2,7 @@
 
 ## TO DO LIST - versi FullStack 
 Dibuat dengan menggunakan ReactJS, ExpressJS, NodeJS, MongoDB (MERN)
+Data tidak akan terhapus meskipun halaman di-* refresh * karena data tersimpan di dalam database
 
 ** Anggota : **
 1. Antonio Natthan Krishna (16521027) (ReactJS JS, dan ServerJS using ExpressJS)
