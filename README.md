@@ -1,7 +1,7 @@
 # Tugas ARC Day 2 - Web Fullstack
 
 ## TO DO LIST - versi FullStack 
-Dibuat dengan menggunakan ReactJS, ExpressJS, NodeJS, MongoDB (MERN)
+Dibuat dengan menggunakan ReactJS, ExpressJS, NodeJS, MongoDB (MERN).
 Data tidak akan terhapus meskipun halaman di-* refresh * karena data tersimpan di dalam database
 
 ** Anggota : **
