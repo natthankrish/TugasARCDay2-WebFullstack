@@ -5,8 +5,8 @@ Dibuat dengan menggunakan ReactJS, ExpressJS, NodeJS, MongoDB (MERN).
 Data tidak akan terhapus meskipun halaman di-* refresh * karena data tersimpan di dalam database
 
 ** Anggota : **
-1. Antonio Natthan Krishna (16521027) (ReactJS JS, dan ServerJS using ExpressJS)
-2. Muhammad Fikri (16521004) (Mongoose)
+1. Antonio Natthan Krishna (16521027) (ReactJS JS dan server.js using ExpressJS)
+2. Muhamad Fikri (16521004) (Mongoose)
 3. Reinhart Wisely Lim (16521020) (HTTP REST)
 4. Silvester Kresna Wicaksono Prayitno Putra (16521326) (ReactJS CSS)
 5. Marcel Ryan Antony (16521343) (ReactJS HTML)
