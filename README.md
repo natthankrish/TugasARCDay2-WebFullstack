@@ -4,7 +4,7 @@
 Dibuat dengan menggunakan ReactJS, ExpressJS, NodeJS, MongoDB (MERN).
 Data tidak akan terhapus meskipun halaman di-*refresh* karena data tersimpan di dalam database
 
-**Anggota : **
+**Anggota :**
 1. Antonio Natthan Krishna (16521027) (ReactJS JS dan server.js using ExpressJS)
 2. Muhamad Fikri (16521004) (Mongoose)
 3. Reinhart Wisely Lim (16521020) (HTTP REST)
@@ -23,7 +23,7 @@ Data tidak akan terhapus meskipun halaman di-*refresh* karena data tersimpan di 
 ### 1. Tekan ikon tambah di kanan bawah
 ![image](https://user-images.githubusercontent.com/92136335/151996225-cf2025e7-72dd-4ded-bc0f-72b8e9be2a6b.png)
 
-### 2. Pop Up input akan muncul dan ketikkan Todo yang akan dimulai. Jika sudah, tekan *create task
+### 2. Pop Up input akan muncul dan ketikkan Todo yang akan dimulai. Jika sudah, tekan *create task*
 ![image](https://user-images.githubusercontent.com/92136335/151996747-e3436b5d-c216-4eb4-b60a-6298068b90b6.png)
 
 ### 3. Task akan masuk ke database
